@@ -3,13 +3,13 @@
 DataService ds = new DataService();
 Random random = new Random();
 
-Console.Title = "Спринт #4 | Выполнил: Скрипневский Б.Р. | ИИКСб-23-1";
+Console.Title = "Спринт #4 | Выполнил: Скирневский Б.Р. | ИБКСб-25-1";
 Console.WriteLine("***********************************************************");
 Console.WriteLine("* Спринт #4                                               *");
 Console.WriteLine("* Тема: Одномерные массивы (статический ввод)             *");
 Console.WriteLine("* Задание #2                                              *");
 Console.WriteLine("* Вариант #13                                             *");
-Console.WriteLine("* Выполнил: Скрипневский Богдан Романович | ИИКСб-23-1   *");
+Console.WriteLine("* Выполнил: Скрипневский Богдан Романович | ИБКСб-25-1   *");
 Console.WriteLine("***********************************************************");
 Console.WriteLine("* УСЛОВИЕ:                                                *");
 Console.WriteLine("* Дан одномерный целочисленный массив на 13 элементов     *");
